@@ -40,7 +40,7 @@ nav a {
 
 }
 
-h2 {
+.first_section h2 {
     padding-bottom: 20px;
     padding-top: 40px;
     padding-right: 55px;
@@ -85,4 +85,55 @@ h2 {
     line-height: 2;
     justify-content: space-between;
 
+}
+
+.second_section h2 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-left: 55px;
+
+}
+
+.second_section img {
+    position: absolute;
+    left: 700px;
+    top: 450px;
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.third_section {
+    text-align: right;
+
+
+}
+
+.third_section h2 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-right: 55px;
+
+}
+
+.third_section p {
+    padding-right: 55px;
+    padding-bottom: 150px;
+    padding-left: 600px;
+    line-height: 2;
+    justify-content: space-between;
+
+}
+
+.hero3 {
+    background-color:#16e171;
+}
+
+.third_section img {
+    position: absolute;
+    left: 50px;
+    top: 790px;
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
 }
