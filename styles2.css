@@ -80,14 +80,6 @@ nav a {
 
 .second_section p {
     padding-left: 55px;
-    padding-bottom: 20px;
-    padding-right: 600px;
-    line-height: 2;
-    justify-content: space-between;
-
-}
-.second_section ul {
-    padding-left: 55px;
     padding-bottom: 150px;
     padding-right: 600px;
     line-height: 2;
@@ -105,7 +97,7 @@ nav a {
 .second_section img {
     position: absolute;
     left: 700px;
-    top: 700px;
+    top: 450px;
     width: 500px;
     height: 300px;
     border-radius: 8px;
@@ -140,17 +132,8 @@ nav a {
 .third_section img {
     position: absolute;
     left: 50px;
-    top: 1300px;
+    top: 790px;
     width: 500px;
     height: 300px;
     border-radius: 8px;
-}
-
-.third_section ul {
-    padding-right: 55px;
-    padding-bottom: 150px;
-    padding-left: 600px;
-    line-height: 2;
-    justify-content: space-between;
-
 }
