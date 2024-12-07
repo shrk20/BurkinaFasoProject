@@ -49,7 +49,7 @@ nav a {
 
 .first_section p {
     padding-right: 55px;
-    padding-bottom: 150px;
+    padding-bottom: 300px;
     padding-left: 600px;
     line-height: 2;
     justify-content: space-between;
@@ -62,10 +62,10 @@ nav a {
 
 .first_section img {
     position: absolute;
-    left: 50px;
+    left: 75px;
     top: 105px;
-    width: 500px;
-    height: 300px;
+    width: 300px;
+    height: 500px;
     border-radius: 8px;
 }
 
@@ -79,14 +79,6 @@ nav a {
 }
 
 .second_section p {
-    padding-left: 55px;
-    padding-bottom: 20px;
-    padding-right: 600px;
-    line-height: 2;
-    justify-content: space-between;
-
-}
-.second_section ul {
     padding-left: 55px;
     padding-bottom: 150px;
     padding-right: 600px;
@@ -105,7 +97,7 @@ nav a {
 .second_section img {
     position: absolute;
     left: 700px;
-    top: 700px;
+    top: 450px;
     width: 500px;
     height: 300px;
     border-radius: 8px;
@@ -140,13 +132,52 @@ nav a {
 .third_section img {
     position: absolute;
     left: 50px;
-    top: 1300px;
+    top: 790px;
     width: 500px;
     height: 300px;
     border-radius: 8px;
 }
 
-.third_section ul {
+
+
+.fourth_section {
+    text-align: left;
+
+}
+
+.hero4 {
+    background-color:#9cbfe2;
+}
+
+.fourth_section p {
+    padding-left: 55px;
+    padding-bottom: 150px;
+    padding-right: 600px;
+    line-height: 2;
+    justify-content: space-between;
+
+}
+
+.fourth_section h2 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-left: 55px;
+
+}
+.fifth_section {
+    text-align: right;
+
+
+}
+
+.fifth_section h2 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-right: 55px;
+
+}
+
+.fifth_section p {
     padding-right: 55px;
     padding-bottom: 150px;
     padding-left: 600px;
@@ -155,10 +186,28 @@ nav a {
 
 }
 
+.hero5 {
+    background-color:#b6def4;
+}
+
+.fifth_section img {
+    position: absolute;
+    left: 50px;
+    top: 790px;
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+
 
 footer {
     background-color: #083e7b;
     text-align: center;
     color: white;
+    font-size: 20px;
+}
+
+p {
     font-size: 20px;
 }
