@@ -12,7 +12,7 @@ body {
 
 nav {
     height: 80px;
-    background-color: #1bb25f;
+    background-color: #083e7b;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -20,7 +20,7 @@ nav {
 
 }
 .logo {
-    color: black;
+    color: white;
     font-size: 1.5rem;
     font-weight: bold;
     padding: 0 2rem;
@@ -29,7 +29,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 0 1.5rem;
 
 }
@@ -57,7 +57,7 @@ nav a {
 }
 
 .hero1 {
-    background-color:#16e171;
+    background-color:#1693e1;
 }
 
 .first_section img {
@@ -75,7 +75,7 @@ nav a {
 }
 
 .hero2 {
-    background-color:#56ed9a;
+    background-color:#78b5f1;
 }
 
 .second_section p {
@@ -126,7 +126,7 @@ nav a {
 }
 
 .hero3 {
-    background-color:#16e171;
+    background-color:#a8d7f1;
 }
 
 .third_section img {
